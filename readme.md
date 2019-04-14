@@ -3,5 +3,5 @@
 ## deploy
 
 ```bash
-gcloud functions deploy hello_world --runtime python37 --trigger-http --source src
+gcloud functions deploy format_sql --runtime python37 --trigger-http --source src
 ```
